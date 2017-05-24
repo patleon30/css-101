@@ -12,7 +12,7 @@
   We'll be walking through these in class.
   1. Add CSS file (and what we need to do to include it).
   2. Follow the flow of NSS Curriculum CSS101 and intro to CSS102
-    1. [CSS101](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/resources/SW_CSS_101.md)
-    2. [CSS102](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/resources/SW_CSS_102.md)
+    1. [CSS101](https://github.com/nashville-software-school/front-end-milestones/blob/master/1-the-static-web/resources/SW_CSS_101.md)
+    2. [CSS102](https://github.com/nashville-software-school/front-end-milestones/blob/master/1-the-static-web/resources/SW_CSS_102.md)
 
 Formal Instructions to follow after in-class demo.
