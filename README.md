@@ -1,7 +1,7 @@
 # This is a chaotic HTML file intended to practice 2 principles.
 
 ## Git workflow:
-1. [Fork My Repo](https://github.com/morecallan/cohort17-css101)
+1. [Fork My Repo](https://github.com/morecallan/css-101)
   1. [General Forking Instructions](https://help.github.com/articles/fork-a-repo/) ![Forking FLOW](http://www.dataschool.io/content/images/2014/Mar/github1.png)
 1. [Clone the Repo Locally](https://help.github.com/articles/cloning-a-repository/)
   1. PWD! Let's be in workspace.
