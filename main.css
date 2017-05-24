@@ -1,0 +1,84 @@
+body {
+	background-color: orange;
+}
+
+#playground {
+	border: 5px dotted black;
+	color: blue;
+}
+
+.child {
+	background-color: slategray;
+
+}
+li {
+	border-bottom: 3px solid tomato;
+}
+
+#playground > p {
+	background-color: green;
+}
+
+#playground {
+	display: none;
+}
+
+h1 {
+	font-family: 'Barrio', cursive;
+		text-align:center;
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color:purple;
+
+}
+#acomplishments > h2 {
+	color: slategrey; 
+	text-align: center;
+
+}
+.accomplishment {
+	margin: 0 auto;
+	width: 40%;
+	padding: 5px;
+}
+
+.accomplishment > img {
+	width: 10%;
+}
+
+
+.accomplishment a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+#images {
+	display: flex;
+	justify-content: space-around;
+	margin: 13px;
+	height: 300px;
+}
+
+#images div {
+	width: 30%;
+	overflow: hidden;
+}
+
+#images img {
+	width: 100%;
+}
+
+#images img:nth-of-type(2) {
+	border-radius: 100%;
+
+}
+
+#images img:nth-of-type(3) {
+	border-radius: 5%;
+}
+	
+
+
+

@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>The Joe Shrine</title>
+    <link rel='stylesheet' type='text/css' href='main.css'> 
+    <link href="https://fonts.googleapis.com/css?family=Barrio" rel="stylesheet">
   </head>
   <body>
     <article id="playground">
@@ -31,17 +33,28 @@
       <!-- Make this particular h2 tag color: slategray -->
       <h2>Joe has accomplished...</h2>
       <!-- These need to be aligned like the mock-up. How can we change the markup to make this work? -->
-      <img src="images/sound-icon.png" alt="Sound Icon">
-      <a href="https://voice123.com/joesvo">Some Voice Work</a>
-      <img src="images/history-icon.png" alt="History Icon">
-      <a href="http://unsolvedmysteries.wikia.com/wiki/Joe_Shepherd">Some Questionable Other Things</a>
+
+
+      <div class="accomplishment">
+        <img src="images/sound-icon.png" alt="Sound Icon">
+        <a href="https://voice123.com/joesvo">Some Voice Work</a>
+      </div>
+      <div class="accomplishment">
+        <img src="images/history-icon.png" alt="History Icon">
+        <a href="http://unsolvedmysteries.wikia.com/wiki/Joe_Shepherd">Some Questionable Other Things</a>
+      </div>
+      
     </div>
 
     <!-- These elements should all be in one row with space in between. They should have the same shape as the mockup. -->
+    
     <div id="images">
-      <img src="images/joe.jpg" alt="Joe's face">
-      <img src="images/definitelyJoe.jpg" alt="Joe living dangerously">
-      <img src="images/alsoJoe.png" alt="Joe in a pile of mountain dew">
+      <div> <img src="images/joe.jpg" alt="Joe's face"></div>
+      <div><img src="images/definitelyJoe.jpg" alt="Joe living dangerously"></div>
+      <div><img src="images/alsoJoe.png" alt="Joe in a pile of mountain dew"></div>
+     
+      
+      
     </div>
 
     <!-- Remove list style for these awards -->
